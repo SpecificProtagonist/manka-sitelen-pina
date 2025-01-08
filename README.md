@@ -1,4 +1,4 @@
-Sitelen pona is a hieroglyphic script for the conlang toki pona. This repository implements it for Minecraft: Simply put it in your resource pack folder, select it and set your language to "toki pona (ma pona)".
+Sitelen pona is a logographic script for the cloŋ toki pona. This repository implements it for Minecraft: Simply put it in your resource pack folder, select it and set your language to "toki pona (ma pona)".
 
 ![Example settings screen in sitelen pona](example.png)
 
